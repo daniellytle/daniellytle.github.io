@@ -154,3 +154,17 @@ a.mag img:hover {
     width: 970px;
   }
 }
+
+.resumeBtn {
+    padding: 20px;
+    border: 2px solid black;
+    font-size: 17px;
+    display: block;
+    color: black !important;
+    margin-top: 20px;
+    text-decoration: none !important;
+}
+
+.resumeBtn:hover {
+    background: #e1e1e1;
+}
