@@ -1,0 +1,2 @@
+pre {display: none;}
+@media screen and (min-width:560px){pre {display: block;}}
