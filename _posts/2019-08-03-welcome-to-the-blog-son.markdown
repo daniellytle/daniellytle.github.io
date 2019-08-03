@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to the BLOG son"
-date:   2019-08-03 10:18:55 -0600
+date:   2019-08-02 10:18:55 -0600
 categories: writing
 ---
 
