@@ -29,7 +29,7 @@ plugins:
   - jekyll-feed
 
 # Google Analytics
-google_analytics: G-6BE1D3R0HF
+google_analytics: G-9ZRRDHEGZL
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
