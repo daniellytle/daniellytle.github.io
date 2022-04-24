@@ -20,6 +20,7 @@ gem 'jekyll-compose', group: [:jekyll_plugins]
 gem "github-pages", "~>226", group: :jekyll_plugins
 
 gem "kramdown", ">=2.3.0"
+gem "nokogiri", ">= 1.13.4"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
