@@ -9,3 +9,5 @@ I once met a man named David Bowen, he was sailing with a friend from the Chesap
 ### "Write down three things you want to do, then do them"
 
 This blog is dedicated to that method of living.
+
+You can find more about Dave at http://www.kaliktime.com/
