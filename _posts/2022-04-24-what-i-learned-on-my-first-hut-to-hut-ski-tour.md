@@ -27,7 +27,7 @@ Coming from Colorado, I felt confident my experience at higher altitudes would b
 
 **Ski Crampons**
 
-In my experience when the slope got icy you made do. Coloradans love proper skinning technique and don't like to rely on metal blades to secure footing when heading up an icy slope. The Alps were a whole new level of ice however, and when doing kick turns on a steep slope above a ravine or crevace I was grateful the guide made me purchase them.
+In my experience when the slope got icy you made do. Coloradans love proper skinning technique and don't like to rely on metal blades to secure footing when heading up an icy slope. The Alps were a whole new level of ice however, and when doing kick turns on a steep slope above a ravine or crevasse I was grateful the guide made me purchase them.
 
 **Merino Wool Base Layers**
 
@@ -112,7 +112,7 @@ Once we had come over the steepest bits we climbed to the Pigne d'Arolla which o
 
 ![Pigne d'Arolla](/assets/img/pigne.jpeg)
 
-From here we had a tricky ski down to the Vignettes hut. There was a lot of crevaced terrain and a very narrow/rocky path through it all. Our group took it slow and smooth and was quickly looking at one of the more dramatic huts in the world. Perched near a sheer drop on both sides, the Vignettes hut is incredible to witness.
+From here we had a tricky ski down to the Vignettes hut. There was a lot of crevassed terrain and a very narrow/rocky path through it all. Our group took it slow and smooth and was quickly looking at one of the more dramatic huts in the world. Perched near a sheer drop on both sides, the Vignettes hut is incredible to witness.
 
 ![Vignettes](/assets/img/vignettes.jpeg)
 
@@ -138,7 +138,7 @@ All that washed away as we came over the crest of the Col near the Tete Blanche 
 
 ![View over the hill](/assets/img/view-over-the-hill.jpeg)
 
-We enjoyed great skiing down the glacier into Zermatt while making sure to stay close to the red poles that symbolized safety from crevaces. The snow was softening up and it seemed like the descent would never stop.
+We enjoyed great skiing down the glacier into Zermatt while making sure to stay close to the red poles that symbolized safety from crevasses. The snow was softening up and it seemed like the descent would never stop.
 
 ![Skiing down](/assets/img/skiing-down.jpeg)
 

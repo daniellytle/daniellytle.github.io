@@ -16,8 +16,7 @@
 title: The Bowen Method
 description: "Write down three things you want to do, then do them" # this means to ignore newlines until "baseurl:"
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "thebowenmethod.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://thebowenmethod.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
