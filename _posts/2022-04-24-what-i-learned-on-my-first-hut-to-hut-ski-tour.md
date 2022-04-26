@@ -3,6 +3,12 @@ layout: post
 title: "Trip Report: Skiing the Haute Route"
 date: 2022-04-24 14:36 +0200
 tags: trip-report
+description: "Everything I learned skiing the Haute Route from Chamonix to Zermatt"
+image:
+  path: "/assets/img/shakedown_day.jpeg"
+  height: 100
+  width: 100
+  alt: "Skiing the Haute Route"
 ---
 
 The first time I heard about the Haute Route I had just gotten into ski touring. I was living in Denver, CO learning about avalanche safety and skiing powdery lines while gaining uphill fitness. It seemed like a dream trip for ski tourers and at the end of 2021 I decided to go for it.
