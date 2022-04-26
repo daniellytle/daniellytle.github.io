@@ -20,10 +20,11 @@ url: "http://thebowenmethod.com" # the base hostname & protocol for your site, e
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
 comments: true
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Google Analytics
 google_analytics: G-DQL0LJ1591
