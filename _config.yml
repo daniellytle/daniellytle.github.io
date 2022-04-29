@@ -25,6 +25,7 @@ comments: true
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-sitemap
 
 # Google Analytics
 google_analytics: G-DQL0LJ1591
