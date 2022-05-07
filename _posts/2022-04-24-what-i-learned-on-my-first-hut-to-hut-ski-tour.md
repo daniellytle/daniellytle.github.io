@@ -17,7 +17,7 @@ The Haute Route is a journey from Chamonix, France to Zermatt, Switzerland throu
 
 ## The Shakedown Day and Gear
 
-The first day of the trip was a test. Our guide wanted to know did we have all the gear required to make the journey and did we know how to use it. We toured around the Grand Montets ski area just above the first glacier we would cross went we set off for Zermatt.
+The first day of the trip was a test. Our guide wanted to know did we have all the gear required to make the journey and did we know how to use it. We toured around the Grand Montets ski area just above the first glacier we would cross when we set off for Zermatt.
 
 ![Shakedown Day](/assets/img/shakedown_day.jpeg)
 
