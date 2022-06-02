@@ -27,6 +27,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
+disqus:
+  shortname: dingodanny
+
 # Google Analytics
 google_analytics: G-DQL0LJ1591
 
