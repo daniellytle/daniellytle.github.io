@@ -7,7 +7,7 @@ image:
   path: "/assets/img/boulder-weekend/valley.png"
   height: 100
   width: 100
-  alt: "Skiing the Haute Route"
+  alt: "boulder canyon bikepacking"
 ---
 
 Something I've always liked about biking is how far you can go and by extension, how much you can see. It makes sense that the hot new activity these days is "bikepacking", or carrying gear to do multi-day trips on bikes. My cousin Sarah Swallow ([@sarahjswallow](https://www.instagram.com/sarahjswallow/?hl=en)) has been in the bikepacking world for years and has traveled the globe planning routes and even bootstraping entire bikepacking events. She inspired me to take a crack at it!
