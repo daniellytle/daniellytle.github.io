@@ -43,3 +43,6 @@ From the summit down to the lower ridge the conditions were rough. "Bulletproof"
 ![Heading down](/assets/img/shasta/IMG_1587.jpg)
 
 Eventually I had descended to the sweet spot altitude where the snow was soft and slushy and began to transition from safe skiing to party mode, much to the chagrin of the late morning hikers heading up the gulch. After cruising through maybe 2k of slush I was back at the end of the snow field where I had been at 5am that morning. My feet were grateful to be out of the ski boots and into my wide running shoes. Soon I was bounding down the trail towards the trailhead and a hearty lunch.
+
+## Strava Activity
+<div class='strava-embed-placeholder' data-embed-type='activity' data-embed-id='7191564579'></div><script src='https://strava-embeds.com/embed.js'></script>
