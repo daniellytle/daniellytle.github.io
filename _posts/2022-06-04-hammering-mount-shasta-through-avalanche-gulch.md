@@ -2,6 +2,12 @@
 layout: post
 title: Hammering Mount Shasta Through Avalanche Gulch
 date: 2022-06-04 20:41 -0700
+description: "Hammering Mount Shasta Through Avalanche Gulch"
+image:
+  path: "/assets/img/shasta/IMG_1587.jpg"
+  height: 100
+  width: 100
+  alt: "Skiing Mt Shasta"
 ---
 
 In 2017 I flew from Michigan to California to climb Mt. Shasta with my friend Matt. The plan was to camp at altitude to accelerate the aclimation process and do a summit push the next day. It was an ill fated expedition for myself as I woke up on summit day with a splitting headache and was sick at 9,000 ft. While I was happy to be back at the car after shuffling down the mountain at 5am, it's weighed on me for a while now. After building some mountaineering skills and fitness over the last few years I figured it was time to take another crack at one of Californias few 14ers and this time bring my skis.
