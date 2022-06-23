@@ -1,7 +1,13 @@
 ---
 layout: post
 title: Summer Skiing the Bloody Couloir in Mammoth CA
+description: "Summer Skiing the Bloody Couloir in Mammoth CA"
 date: 2022-06-20 07:38 -0600
+image:
+  path: "/assets/img/bloody/IMG_1688.jpg"
+  height: 100
+  width: 100
+  alt: "Skiing the Bloody Couloir"
 ---
 
 I had made it a 2022 goal to ski 3 of the [Classic North American Ski Descents](https://www.50classicskidescents.com/) and the ski season was rapidly coming to a close. After turning away from the summit of Mt Hood earlier I still needed that third descent. I was making my way down from San Francisco to Los Angeles and had seen one of the famous lines was located "sort-of" along the way near Mammoth Lakes, CA. After consulting my Sierra Ski Book and a few ski blogs [1](https://snowbrains.com/trip-report-bloody-mountain-ca-bloody-couloir/) and [2](https://www.sierradescents.com/skiing/bloody/bloody-couloir.html#:~:text=Bloody%20Couloir%20is%20usually%20the,and%20a%20more%20moderate%20angle.) I figured I'd give it a go.
