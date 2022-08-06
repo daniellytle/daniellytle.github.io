@@ -1,0 +1,23 @@
+{% assign filenames = include.filenames | split: "," %}
+<style type="text/css">
+.multi-photo {
+	width: 100%;
+	display: inline-flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.photo-box {
+	
+}
+.photo {
+	max-height: 400px;
+	max-width: 400px;
+	padding: 10px;
+	object-fit: contain;
+}
+</style>
+<p class="multi-photo">
+{% for name in filenames %}
+	<img src="{{ site.thumbsurl }}{{ name }}" class="photo previewable" alt="{{ name }}" />
+{% endfor %}
+</p >

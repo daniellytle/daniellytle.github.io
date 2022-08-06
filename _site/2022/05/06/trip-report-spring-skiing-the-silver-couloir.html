@@ -13,11 +13,11 @@
 <meta property="og:url" content="https://thebowenmethod.com/2022/05/06/trip-report-spring-skiing-the-silver-couloir.html" />
 <meta property="og:site_name" content="The Bowen Method" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-05-06T15:39:00-06:00" />
+<meta property="article:published_time" content="2022-05-06T17:39:00-04:00" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Trip Report: Spring Skiing the Silver Couloir" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-05-06T15:39:00-06:00","datePublished":"2022-05-06T15:39:00-06:00","description":"The Silver Couloir is a popular ski line of the north east side of Buffalo Mountain in Summit County, CO. Famous for being included in the 50 Classic Ski Descents in North America, it offers skiers a chance to link themselves to the famous book with just a quick tour from the car.","headline":"Trip Report: Spring Skiing the Silver Couloir","mainEntityOfPage":{"@type":"WebPage","@id":"https://thebowenmethod.com/2022/05/06/trip-report-spring-skiing-the-silver-couloir.html"},"url":"https://thebowenmethod.com/2022/05/06/trip-report-spring-skiing-the-silver-couloir.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-05-06T17:39:00-04:00","datePublished":"2022-05-06T17:39:00-04:00","description":"The Silver Couloir is a popular ski line of the north east side of Buffalo Mountain in Summit County, CO. Famous for being included in the 50 Classic Ski Descents in North America, it offers skiers a chance to link themselves to the famous book with just a quick tour from the car.","headline":"Trip Report: Spring Skiing the Silver Couloir","mainEntityOfPage":{"@type":"WebPage","@id":"https://thebowenmethod.com/2022/05/06/trip-report-spring-skiing-the-silver-couloir.html"},"url":"https://thebowenmethod.com/2022/05/06/trip-report-spring-skiing-the-silver-couloir.html"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://thebowenmethod.com/feed.xml" title="The Bowen Method" />
 </head>
@@ -38,11 +38,15 @@
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+        <script
+  src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
+  integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI="
+  crossorigin="anonymous"></script>
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">Trip Report: Spring Skiing the Silver Couloir</h1>
-    <p class="post-meta"><time class="dt-published" datetime="2022-05-06T15:39:00-06:00" itemprop="datePublished">
+    <p class="post-meta"><time class="dt-published" datetime="2022-05-06T17:39:00-04:00" itemprop="datePublished">
         May 6, 2022
       </time></p>
   </header>
@@ -75,8 +79,42 @@
 <p>Exhausted from the heat, we sat at the car and looked at the East face of Buffalo Mountain that we had just ascended. I couldn’t believe how warm it was in the mountains! All in all, a great day and a great line that every Colorado skier should check off.</p>
 
   </div><a class="u-url" href="/2022/05/06/trip-report-spring-skiing-the-silver-couloir.html" hidden></a>
-</article>
 
+  <style type="text/css">
+.previewable {
+	cursor: pointer;
+}
+.overlay {
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background: #000000ed;
+	position: fixed;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+}
+.photo-preview {
+	max-height: 80%;
+	max-width: 80%;
+}
+.body-lock {
+	overflow: hidden;
+}
+</style>
+<script type="text/javascript">
+	$(".previewable").click((e) => {
+		$("body").append(`<div class='overlay'><img class='photo-preview' src=${e.target.src}/></div>`).addClass("body-lock")
+		$("div.overlay").click((e) => {
+			if (e.target.tagName === 'DIV') {
+				$(e.target).remove();
+				$("body").removeClass("body-lock")		
+			}
+		});
+	});
+</script>
+</article>
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/"></data>
