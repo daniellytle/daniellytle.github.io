@@ -23,7 +23,7 @@
 </style>
 <script type="text/javascript">
 	$(".previewable").click((e) => {
-		$("body").append(`<div class='overlay'><img class='photo-preview' src=${e.target.src}/></div>`).addClass("body-lock")
+		$("body").append(`<div class='overlay'><img class='photo-preview' src="${e.target.src}"/></div>`).addClass("body-lock")
 		$("div.overlay").click((e) => {
 			if (e.target.tagName === 'DIV') {
 				$(e.target).remove();
