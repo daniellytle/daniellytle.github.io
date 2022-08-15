@@ -3,6 +3,7 @@ layout: post
 title: Summer Skiing the Bloody Couloir in Mammoth CA
 description: "Summer Skiing the Bloody Couloir in Mammoth CA"
 date: 2022-06-20 07:38 -0600
+author: dan
 image:
   path: "/assets/img/bloody/IMG_1688.jpg"
   height: 100

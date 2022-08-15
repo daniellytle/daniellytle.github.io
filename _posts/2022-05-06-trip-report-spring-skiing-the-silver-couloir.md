@@ -3,6 +3,7 @@ layout: post
 title: 'Trip Report: Spring Skiing the Silver Couloir'
 date: 2022-05-06 15:39 -0600
 tags: skiing
+author: dan
 ---
 
 The Silver Couloir is a popular ski line of the north east side of Buffalo Mountain in Summit County, CO. Famous for being included in the [50 Classic Ski Descents in North America](https://www.50classicskidescents.com/), it offers skiers a chance to link themselves to the famous book with just a quick tour from the car.

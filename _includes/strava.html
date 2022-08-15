@@ -1,0 +1,8 @@
+{% assign data = include.data | split: ":" %}
+{%- if data[0] == 'activity' -%}
+	<div class='strava-embed-placeholder' data-embed-type='activity' data-embed-id='{{data[1]}}'></div>
+{%- endif -%}
+{%- if data[0] == 'route' -%}
+	<div class='strava-embed-placeholder' data-embed-type='route' data-embed-id='{{data[1]}}'></div>
+{%- endif -%}
+<script src='https://strava-embeds.com/embed.js'></script>

@@ -3,6 +3,7 @@ layout: post
 title: "Trip Report: Skiing the Haute Route"
 date: 2022-04-24 14:36 +0200
 tags: trip-report
+author: dan
 description: "Everything I learned skiing the Haute Route from Chamonix to Zermatt"
 image:
   path: "/assets/img/shakedown_day.jpeg"

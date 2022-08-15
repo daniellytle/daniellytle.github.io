@@ -27,11 +27,22 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+
 disqus:
   shortname: dingodanny
 
 # Google Analytics
 google_analytics: G-DQL0LJ1591
+
+collections:
+  authors:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

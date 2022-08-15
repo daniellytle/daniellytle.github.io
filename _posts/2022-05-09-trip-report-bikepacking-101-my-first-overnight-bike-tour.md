@@ -3,6 +3,7 @@ layout: post
 title: 'Trip Report: Bikepacking 101, My First Overnight Tour'
 date: 2022-05-09 16:19 -0600
 tags: trip-report bikepacking
+author: dan
 image:
   path: "/assets/img/boulder-weekend/valley.png"
   height: 100

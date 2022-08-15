@@ -2,6 +2,7 @@
 layout: post
 title: Sailing down the American East Coast, NYC to Daytona Beach
 date: 2021-11-29 19:02 -0500
+author: dan
 ---
 
 The time between jobs is a great chance for a long adventure. In the fall of 2021 I set out from NYC on my sailboat bound for warmer climates. I had done a bit of research into route planning and passages by chatting with friends and finding other blogs similar to this one. In this post I'll detail the route I took and interesting points of note from along the way.

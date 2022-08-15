@@ -2,6 +2,7 @@
 layout: post
 title: Hammering Mount Shasta Through Avalanche Gulch
 date: 2022-06-04 20:41 -0700
+author: dan
 description: "Hammering Mount Shasta Through Avalanche Gulch"
 image:
   path: "/assets/img/shasta/IMG_1587.jpg"

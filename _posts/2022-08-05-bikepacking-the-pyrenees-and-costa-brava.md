@@ -1,5 +1,6 @@
 ---
 layout: post
+author: nate
 title: Bikepacking the Pyrenees and Costa Brava
 date: 2022-08-05 09:12 -0400
 ---
@@ -134,6 +135,3 @@ During our climb of Port de Lers, we met a woman from Rice Lake, WI who had move
 The many people we met along the way. Hard to highlight all, but here are some memorable ones: bike tour from Miami, awesome waitress in Valencia d'Aneu + hotel owner, bikepackers met at summit heading to Bagneres du Luchon, bikepacking duo of father/son from Germany, waiter at Lac d’Oo who hooked us up, Rice Lake woman and a saxaphone player who had a gig that night, hotel owner up Goulier, our bnb host at Quillon who was so sweet, Dutch rider on our push to Begur, dinner with the Creative Director from Black Sheep and his awesome ex-pro turned Black Sheep savant wife, and the Girona girls who played tour guides.
 
 For the sake of brevity and not being too much of a time commitment, I am going to wrap up this lengthy report. Many thanks to everyone who made this such a memorable experience. Special thanks to Danno and Chorski as these memories will last a lifetime. I have a feeling this is just V1 for the Brava Boys. Excited for whatever is next. The boys got on a sick one.
-
--- Natè Schneider
-
