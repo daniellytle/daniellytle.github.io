@@ -2,7 +2,7 @@
 layout: post
 author: nate
 title: Bikepacking the Pyrenees and Costa Brava
-date: 2022-08-05 09:12 -0400
+background: '/assets/img/brava/image12.png'
 ---
 
 Brava Boys 2022

@@ -178,6 +178,8 @@ GEM
     jekyll-theme-cayman (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
+    jekyll-theme-clean-blog (4.0.12)
+      jekyll (>= 3.8.5)
     jekyll-theme-dinky (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
@@ -281,6 +283,7 @@ GEM
     zeitwerk (2.5.4)
 
 PLATFORMS
+  universal-darwin-22
   x86_64-darwin-21
 
 DEPENDENCIES
@@ -288,8 +291,8 @@ DEPENDENCIES
   jekyll-compose
   jekyll-feed (~> 0.6)
   jekyll-tagging
+  jekyll-theme-clean-blog
   kramdown (>= 2.3.0)
-  minima (~> 2.5.1)
   nokogiri (>= 1.13.4)
   tzinfo (~> 1.2)
   tzinfo-data

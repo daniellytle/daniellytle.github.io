@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+background: 'assets/img/looking-at-champex.jpeg'
 image:
   path: "/assets/img/shakedown_day.jpeg"
   height: 100
