@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Installing a Chinese (Amazon) Diesel Heater in my 2004 T1N Sprinter Van
+title: Installing a Cheap (Amazon) Diesel Heater in my 2004 T1N Sprinter Van
 date: 2023-03-06 16:23 -0700
+background: 'https://m.media-amazon.com/images/I/71EFYGPDhYL._AC_SL1500_.jpg'
 ---
 
 Heating a sprinter van in sub freezing temperatures is difficult, even if it's insulated. Ideally you want something that is simple, cost-effective, and safe. I did a bit of research and talked to some van folks who suggested using Electric Blankets, Propane Space Heaters, and Diesel Heaters. I ended up trying all three of these options before ditching the rest for the diesel heater (it was by far the best solution).
@@ -40,13 +41,13 @@ I was also a bit embarassed I knew so little about my own van but in my defense 
 
 What really got me going was the realization that my van already had a small diesel heater, meant to warm the engine block up in cold weather. I found this out by searching my VIN number on [lastvin.com](https://www.lastvin.com/). This showed part codes for HZ9 HEATER BOOSTER, DIESEL which meant my van had this mini heater installed and more importantly, a fuel line to supply that heater. I had seen other van owners make a T in these auxiliary fuel lines to let both their indoor heater and heater booster access the main tank. I was thrilled to forget about the spare. After inspecting the bottom of the van just in front of the fuel tank I could see the fuel line and the fuel pump that fed the heater.
 
-// PIC OF THIS
+![Auxiliary Fuel Line](/assets/img/heater/aux-line.jpg)
 
 **But where to put you?**
 
 Now came the decision of where to locate the heater in the van. By far the most common installation you'll find is installing the heater facing the rear, beneath the passenger seat. This is a nice spot because your heater air will go directly into the living space behind the passenger seat and you don't need to cut through much metal to get through the floor of the van. When I went to check out this spot I realized this would not be possible for me. Most passenger seat installs use the 2KW heaters which fit inside the space nicely. I had accidentally purchased the behemouth 8KW heater.
 
-// PIC OF COMPARISON
+![Auxiliary Fuel Line](/assets/img/heater/comparison.png)
 
 Looking for other options I eventually settled on the drivers side halfway up the van, it was a good spot beneath a seat that the previous owner had put in. It'd be closer to my battery bank and the giant heater would fit inside nicely. First I set about using the template plate that came with the kit to drill the openings for all the "thru-hulls" (great boat lingo for things that go through the floor, a bit scarier in boats). Soon I realied that I was not simply drilling through the metal floor of the van but about an inch of wood flooring above that. This complicated things a bit. The connections between the heater unit and the exhaust intake hoses were crucial and would need to be directly where the pipes left the unit. I figured I'd solve this by pre-attaching the hoses and cutting enough space in the wood flooring to fit the clamps around the bases. This worked surprisingly well and all of a sudden my heater was strapped in tight with two long hoses dangling beneath my van.
 
@@ -54,10 +55,20 @@ Looking for other options I eventually settled on the drivers side halfway up th
 
 First thing I did was strap the hoses to the side of the van so that they'd be secure. I was careful to make sure the exhaust always sloped down as instructed, supposedly liquid can come down it and if it backs up you're going to get some things coming out of your heater. Once this was done it was time to setup the fuel line.
 
-// Pic of the hoses
-
 This was certainly the scariest step but I realized it was very simple. I follwed the guidance to install the fuel pump at a slight angle upwards and also so that the line from the pump to the heater was always sloping up so no air bubbles could form. The line from the tank going into the pump could be as crazy as you like. After drilling the pump into position it was time to cut the T in the fuel line. The kit I purchased did not come with a fuel line splitting T so I bought this [fuel line splitter kit](https://www.amazon.com/gp/product/B09DSPPS7S/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1) which mentioned the European heaters, thinking it would work for me.
 
-After fiddling around with the pieces I realized the fuel hose and fuel line I had were not the same size as the auxiliary fuel line running out of my tank. 
+After fiddling around with the pieces I realized the fuel hose and fuel line I had were not the same size as the auxiliary fuel line running out of my tank. Eventually I found a [fuel hose at Lowes](https://www.lowes.com/pd/EZ-FLO-1-4-in-Inner-Diameter-x-10-ft-Rubber-Fuel-Hose/1000180619) that would work as a buffer between the existing fuel line and the T kit.
 
-https://www.youtube.com/watch?v=jCZhjGyR3bo&t=480s&ab_channel=JohnMcK47
+**Understanding the Controller**
+
+The controller that came with my heater was a bit odd but thankfully [this great video](https://www.youtube.com/watch?v=_dAIzvh4IaQ&ab_channel=VanLifeUkACompleteSurvivorsGuide) helped me understand its functions and start the priming process. Priming runs the pump without the heater on to fill the fuel line with fuel. Seeing the fuel slowly go through the line was very exciting after all that work without any feedback!
+
+**The Afterburner Controller**
+
+A few months after installing the heater and using it frequently I heard of a device called [The Afterburner](http://www.mrjones.id.au/afterburner/). It's a super easy to use/understand controller you can use in place of the one shipped with your heater. You need to first make sure your heater is compatible with this controller before you order it, the one purchased and mention above was. With the Afterburner I can turn on my heater by connecting to the Afterburners wifi network on my phone and it has a great display.
+
+![Afterburner](/assets/img/heater/afterburner.png)
+
+**Update after a few months of use..**
+
+This heater has been exactly the thing I was looking for, it works durably and has not caused me any issues thus far. The only downside is the pump does emit a thumping sound that's audible inside the van. It's not super bothersome but I could certainly do without it. I imagine if anything happens to this heater I will probably buy another one just like it, the value is superb!
