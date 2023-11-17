@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Bowen Method
+title: daniellytle
 description: "Write down three things you want to do, then do them" # this means to ignore newlines until "baseurl:"
 
-url: "https://thebowenmethod.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://daniellytle.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -42,7 +42,7 @@ defaults:
       layout: "author"
 
 # Google Analytics
-google_analytics: G-DQL0LJ1591
+google_analytics: G-JLGWKBS37D
 
 collections:
   authors:

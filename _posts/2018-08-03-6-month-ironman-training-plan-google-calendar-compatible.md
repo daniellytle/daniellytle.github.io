@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "6 Month Ironman Training Plan with Google Calendar Import"
+title: 6 Month Ironman Training Plan with Google Calendar Import
 date: 2019-08-03 10:18:55 -0600
-categories: writing
 author: dan
 ---
 

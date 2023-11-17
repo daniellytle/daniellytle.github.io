@@ -1,1 +1,1 @@
-Sitemap: https://thebowenmethod.com/sitemap.xml
+Sitemap: https://daniellytle.github.io/sitemap.xml
