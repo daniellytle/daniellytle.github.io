@@ -121,6 +121,18 @@ body {
   color: #ffffff;
 }
 
+.btn-cycling {
+  background: #10b981;
+  border-color: #10b981;
+  color: #ffffff;
+}
+
+.btn-cycling:hover {
+  background: #059669;
+  border-color: #059669;
+  color: #ffffff;
+}
+
 .btn-linkedin {
   background: #0a66c2;
   border-color: #0a66c2;
