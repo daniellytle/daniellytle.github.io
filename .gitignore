@@ -1,0 +1,12 @@
+# Jekyll build output
+_site/
+jekyll-serve.log
+
+# Obsidian local config
+.obsidian/
+
+# macOS
+.DS_Store
+
+# Editor swap files
+*.swp

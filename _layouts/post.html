@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<main class="card post">
+  <article>
+    <header class="post-header">
+      <a class="back-link" href="{{ site.baseurl }}/">&larr; Home</a>
+      <h1 class="post-title">{{ page.title }}</h1>
+      <p class="post-date">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+      </p>
+    </header>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+  </article>
+</main>
